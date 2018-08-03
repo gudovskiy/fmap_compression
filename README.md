@@ -1,2 +1,1 @@
-# fmap_compression
-Code for DNN feature map compression paper 
+# Code for "DNN Feature Map Compression using Learned Representation over {GF}(2)" paper
